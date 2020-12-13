@@ -1,7 +1,7 @@
 ## Seung Han Son - @GingerThorp
 
-[![github stats](https://github-readme-stats.vercel.app/api?username=gingerthorp&show_icons=true&title_color=000000&icon_color=000000&count_private=true&locale=kr&bg_color=30,1FA2FF,12D8FA,A6FFCB)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gingerthorp&layout=default&title_color=000000&icon_color=000000&count_private=true&locale=kr&bg_color=30,1FA2FF,12D8FA,A6FFCB)](https://github.com/anuraghazra/github-readme-stats)
+[![github stats](https://github-readme-stats.vercel.app/api?username=gingerthorp&show_icons=true&title_color=000000&icon_color=000000&count_private=true&bg_color=30,1FA2FF,12D8FA,A6FFCB)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gingerthorp&layout=default&title_color=000000&icon_color=000000&count_private=true&bg_color=30,1FA2FF,12D8FA,A6FFCB)](https://github.com/anuraghazra/github-readme-stats)
 
 <div>
 
