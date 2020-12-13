@@ -1,7 +1,7 @@
 ## Seung Han Son - @GingerThorp
 
-[![github stats](https://github-readme-stats.vercel.app/api?username=gingerthorp&show_icons=true&theme=solarized-light)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gingerthorp&layout=compact&theme=solarized-light)](https://github.com/anuraghazra/github-readme-stats)
+[![github stats](https://github-readme-stats.vercel.app/api?username=gingerthorp&show_icons=true&title_color=000000&icon_color=000000&count_private=true&locale=kr&bg_color=30,1FA2FF,12D8FA,A6FFCB)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gingerthorp&layout=default&title_color=000000&icon_color=000000&count_private=true&locale=kr&bg_color=30,1FA2FF,12D8FA,A6FFCB)](https://github.com/anuraghazra/github-readme-stats)
 
 <div>
 
@@ -11,6 +11,6 @@
 
 <div align=right>
 
-![Tistory](https://img.shields.io/badge/Tistory-black?style=flat-square&logo=Kakao&link=https://easyquant.tistory.com/)  [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgingerthorp%2Fgingerthorp&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgingerthorp%2Fgingerthorp&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
 </div>
