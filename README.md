@@ -3,7 +3,7 @@
 [![github stats](https://github-readme-stats.vercel.app/api?username=Ginger-Tec&show_icons=true&title_color=ffffff&icon_color=ffffff&text_color=ffffff&hide_border=true&count_private=true&bg_color=30,355C7D,6C5B7B,C06C84)](https://github.com/anuraghazra/github-readme-stats)  
 
 
-[![Ginger-Tec wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Ginger-Tec&show_icons=true&title_color=4C9BE0&icon_color=ffffff&text_color=ffffff&hide_border=true&count_private=true&bg_color=30,355C7D,6C5B7B,C06C84&v=2)](https://github.com/anuraghazra/github-readme-stats)
+[![Ginger-Tec wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Ginger_Tec&show_icons=true&title_color=4C9BE0&icon_color=ffffff&text_color=ffffff&hide_border=true&count_private=true&bg_color=30,355C7D,6C5B7B,C06C84&v=2)](https://github.com/anuraghazra/github-readme-stats)
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ginger-Tec&layout=compact&title_color=ffffff&icon_color=ffffff&text_color=ffffff&hide_border=true&count_private=true&bg_color=30,355C7D,6C5B7B,C06C84)](https://github.com/anuraghazra/github-readme-stats)
